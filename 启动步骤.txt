@@ -1,3 +1,0 @@
-1.打开cmd，启动redis
-2.打开IDEA，启动WsApplication
-3.打开WebStorm，输入npm run dev
